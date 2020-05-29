@@ -7,5 +7,7 @@ public class git {
         System.out.println("dev分支上的更改");
         System.out.println("master添加");
         System.out.println("master");
+        System.out.println("dev添加");
+        System.out.println("add");
     }
 }

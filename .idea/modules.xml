@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Journaldev.iml" filepath="$PROJECT_DIR$/Journaldev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hellogit/hellogit.iml" filepath="$PROJECT_DIR$/hellogit/hellogit.iml" />
+    </modules>
+  </component>
+</project>
